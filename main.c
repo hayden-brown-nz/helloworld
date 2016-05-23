@@ -12,4 +12,6 @@ int main(void)
 
     printf("\n\rHello World!\n\r\n\r");
 
+    return 0;
+
 }
