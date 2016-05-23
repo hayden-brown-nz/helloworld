@@ -1,0 +1,3 @@
+# Git will ignore files matching these filename patterns
+*.[oa]
+*~
