@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 
+/* Main function */
 int main(void)
 {
 
