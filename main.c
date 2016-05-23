@@ -2,7 +2,9 @@
 #include <stdlib.h>
 
 
-/* Main function */
+/* 
+  Main function 
+*/
 int main(void)
 {
 
